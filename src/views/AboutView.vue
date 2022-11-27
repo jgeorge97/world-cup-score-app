@@ -8,7 +8,13 @@
         rel="noopener noreferrer"
         >George Jose</a
       >
-      . This is a Work in progress. Feel free to contribute here.
+      . This is a Work in progress. Feel free to contribute
+      <a
+        href="https://github.com/jgeorge97/world-cup-score-app"
+        target="_blank"
+        rel="noopener noreferrer"
+        >here</a
+      >.
     </p>
     <p>
       Data provided by
