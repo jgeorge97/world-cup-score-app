@@ -1,6 +1,6 @@
 <template>
   <div class="_margin-top:2 _margin-bottom:2">
-    <h2 class="_margin-x:auto">Matches Tomorrow -</h2>
+    <h2 class="_margin-x:auto">Matches Tomorrow</h2>
     <div class="_margin-x:auto" v-if="loading">
       <i-loader color="primary" />
     </div>
