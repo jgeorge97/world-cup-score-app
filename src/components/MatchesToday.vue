@@ -1,9 +1,9 @@
 <template>
   <div class="_margin-top:2 _margin-bottom:2">
-    <h2 class="_margin-x:auto">
+    <h2 style="text-align: center;">
       Matches Today - {{ new Date().toDateString() }}
     </h2>
-    <div class="_margin-x:auto" v-if="loading">
+    <div style="text-align: center;" v-if="loading">
       <i-loader color="primary" />
     </div>
     <div v-else-if="loading === false && matches.length > 0">
