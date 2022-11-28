@@ -35,16 +35,15 @@ export default defineComponent({
     this.fetchData();
   },
   methods: {
-    async fetchData() {
-      try {
-        this.loading = true;
-        let res = await fetcher(`https://worldcupjson.net/matches/today`);
+    fetchData() {
+      this.loading = true;
+      fetcher(`https://worldcupjson.net/matches/today`).then((res) => {
         this.matches = res;
         this.loading = false;
-      } catch (error) {
+      }).catch((error) => {
         this.loading = false;
         console.error(error);
-      }
+      })
     },
   },
 });
