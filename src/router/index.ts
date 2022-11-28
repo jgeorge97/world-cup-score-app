@@ -8,16 +8,16 @@ const router = createRouter({
       name: "Home",
       component: () => import("@/views/MatchView.vue"),
       props: {
-        day: 0
-      }
+        day: 0,
+      },
     },
     {
       path: "/tomorrow",
       name: "Matches Tomorrow",
       component: () => import("@/views/MatchView.vue"),
       props: {
-        day: 1
-      }
+        day: 1,
+      },
     },
     {
       path: "/about",

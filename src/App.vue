@@ -17,7 +17,7 @@ import { RouterView } from "vue-router";
   <i-layout>
     <i-layout-header> </i-layout-header>
     <i-layout-content>
-      <RouterView :key="$route.fullPath"/>
+      <RouterView :key="$route.fullPath" />
     </i-layout-content>
     <i-layout-footer>
       <i-container>

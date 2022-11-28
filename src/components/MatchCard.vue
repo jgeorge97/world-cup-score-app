@@ -1,7 +1,7 @@
 <template>
   <i-card class="_margin-bottom:2">
     <i-row center class="_margin-top:1">
-      <i-column xs="3" style="text-align: left;">
+      <i-column xs="3" style="text-align: left">
         <img
           :src="getflag(match.home_team_country)"
           :alt="`Flag of ${match.home_team.name}`"
@@ -10,7 +10,7 @@
         />
       </i-column>
       <i-column xs="3"></i-column>
-      <i-column xs="3" style="text-align: right;">
+      <i-column xs="3" style="text-align: right">
         <img
           :src="getflag(match.away_team_country)"
           :alt="`Flag of ${match.away_team.name}`"
@@ -21,15 +21,21 @@
     </i-row>
     <i-row center class="_margin-top:1">
       <i-column xs="3"
-        >{{ match.home_team.name }}<br/>({{ match.home_team_country }})</i-column
+        >{{ match.home_team.name }}<br />({{
+          match.home_team_country
+        }})</i-column
       >
       <i-column xs="3">
-        {{ match.home_team.goals }} <span v-if="match.home_team.goals || match.away_team.goals">-</span> {{ match.away_team.goals }}
-        <br/>
+        {{ match.home_team.goals }}
+        <span v-if="match.home_team.goals || match.away_team.goals">-</span>
+        {{ match.away_team.goals }}
+        <br />
         {{ match.time }}
       </i-column>
       <i-column xs="3"
-        >{{ match.away_team.name }}<br/>({{ match.away_team_country }})</i-column
+        >{{ match.away_team.name }}<br />({{
+          match.away_team_country
+        }})</i-column
       >
     </i-row>
     <i-row center>
@@ -52,9 +58,7 @@
       new Date(match.datetime).toLocaleTimeString()
     }}</i-row>
     <template #footer>
-      <i-row center>
-        Venue: {{ match.venue }}, {{ match.location }}
-      </i-row>
+      <i-row center> Venue: {{ match.venue }}, {{ match.location }} </i-row>
     </template>
   </i-card>
 </template>
@@ -74,7 +78,7 @@ export default defineComponent({
   methods: {
     getflag(code: string) {
       return countries.getflag(code);
-    }
-  }
+    },
+  },
 });
 </script>

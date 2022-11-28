@@ -1,9 +1,9 @@
 <template>
   <div class="_margin-top:2 _margin-bottom:2">
-    <h2 style="text-align: center;">
+    <h2 style="text-align: center">
       Matches - {{ new Date().toDateString() }}
     </h2>
-    <div style="text-align: center;" v-if="loading">
+    <div style="text-align: center" v-if="loading">
       <i-loader color="primary" />
     </div>
     <div v-else-if="loading === false && matches.length > 0">
@@ -28,8 +28,8 @@ export default defineComponent({
   props: {
     apiurl: {
       type: String,
-      required: true
-    }
+      required: true,
+    },
   },
   data() {
     return {
@@ -43,13 +43,15 @@ export default defineComponent({
   methods: {
     fetchData() {
       this.loading = true;
-      fetcher(this.apiurl).then((res) => {
-        this.matches = res;
-        this.loading = false;
-      }).catch((error) => {
-        this.loading = false;
-        console.error(error);
-      })
+      fetcher(this.apiurl)
+        .then((res) => {
+          this.matches = res;
+          this.loading = false;
+        })
+        .catch((error) => {
+          this.loading = false;
+          console.error(error);
+        });
     },
   },
 });

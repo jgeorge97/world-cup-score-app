@@ -1,6 +1,6 @@
 <template>
   <i-container>
-    <CurrentMatch v-if="day == 0"/>
+    <CurrentMatch v-if="day == 0" />
     <Matches :apiurl="apiurl" />
   </i-container>
 </template>
@@ -14,19 +14,18 @@ export default {
     day: {
       type: Number,
       required: false,
-      default: 0
-    }
+      default: 0,
+    },
   },
   components: {
-    CurrentMatch, 
-    Matches
+    CurrentMatch,
+    Matches,
   },
   computed: {
     apiurl() {
-      if ( this.day == 1 )
-        return "https://worldcupjson.net/matches/tomorrow";
-      return "https://worldcupjson.net/matches/today"
-    }
-  }
-}
+      if (this.day == 1) return "https://worldcupjson.net/matches/tomorrow";
+      return "https://worldcupjson.net/matches/today";
+    },
+  },
+};
 </script>
