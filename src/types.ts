@@ -68,3 +68,9 @@ type Statistics = {
   red_cards: number;
   fouls_committed: number;
 };
+
+export type CountryFlag = {
+  country_name: string;
+  country_code: string;
+  flag: string;
+};

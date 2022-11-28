@@ -6,6 +6,8 @@ A simple app made using Vue to show upcoming matches in FIFA World Cup 2022. Dat
 
 - [ ] PWA Support
 - [ ] Show Future Matches past Tomorrow
+- [x] Change Flags API
+- [ ] Fix Loader Layout
 
 ## Recommended IDE Setup
 
