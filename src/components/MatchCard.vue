@@ -1,6 +1,6 @@
 <template>
-  <i-card class="_margin-bottom:1">
-    <i-row center class="_margin-bottom:1">
+  <i-card class="_margin-bottom:2">
+    <i-row center class="_margin-top:1">
       <i-column xs="3" style="text-align: left;">
         <img
           :src="getflag(match.home_team_country)"
@@ -19,12 +19,12 @@
         />
       </i-column>
     </i-row>
-    <i-row center class="_margin-bottom:1">
+    <i-row center class="_margin-top:1">
       <i-column xs="3"
         >{{ match.home_team.name }}<br/>({{ match.home_team_country }})</i-column
       >
       <i-column xs="3">
-        {{ match.home_team.goals }} - {{ match.away_team.goals }}
+        {{ match.home_team.goals }} <span v-if="match.home_team.goals || match.away_team.goals">-</span> {{ match.away_team.goals }}
         <br/>
         {{ match.time }}
       </i-column>
@@ -52,7 +52,9 @@
       new Date(match.datetime).toLocaleTimeString()
     }}</i-row>
     <template #footer>
-      Venue: {{ match.venue }}, {{ match.location }}
+      <i-row center>
+        Venue: {{ match.venue }}, {{ match.location }}
+      </i-row>
     </template>
   </i-card>
 </template>
