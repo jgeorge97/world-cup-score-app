@@ -1,32 +1,35 @@
 <template>
   <i-card class="_margin-bottom:1">
     <i-row center class="_margin-bottom:1">
-      <i-column xs="6">
+      <i-column xs="3" style="text-align: left;">
         <img
-          :src="`https://countryflagsapi.com/png/${match.home_team.name}`"
+          :src="getflag(match.home_team_country)"
           :alt="`Flag of ${match.home_team.name}`"
           class="image"
-          style="width: 50%"
+          style="width: 100%"
         />
       </i-column>
-      <i-column xs="6">
+      <i-column xs="3"></i-column>
+      <i-column xs="3" style="text-align: right;">
         <img
-          :src="`https://countryflagsapi.com/png/${match.away_team.name}`"
+          :src="getflag(match.away_team_country)"
           :alt="`Flag of ${match.away_team.name}`"
           class="image"
-          style="width: 50%"
+          style="width: 100%"
         />
       </i-column>
     </i-row>
     <i-row center class="_margin-bottom:1">
-      <i-column md="3" xs="3"
-        >{{ match.home_team.name }} ({{ match.home_team_country }})</i-column
+      <i-column xs="3"
+        >{{ match.home_team.name }}<br/>({{ match.home_team_country }})</i-column
       >
-      <i-column md="2" xs="2">{{ match.home_team.goals }}</i-column>
-      <i-column>{{ match.time }}</i-column>
-      <i-column md="2" xs="2">{{ match.away_team.goals }}</i-column>
-      <i-column md="3" xs="3"
-        >{{ match.away_team.name }} ({{ match.away_team_country }})</i-column
+      <i-column xs="3">
+        {{ match.home_team.goals }} - {{ match.away_team.goals }}
+        <br/>
+        {{ match.time }}
+      </i-column>
+      <i-column xs="3"
+        >{{ match.away_team.name }}<br/>({{ match.away_team_country }})</i-column
       >
     </i-row>
     <i-row center>
@@ -56,6 +59,7 @@
 <script lang="ts">
 import type { Match } from "@/types";
 import { defineComponent, type PropType } from "vue";
+import countries from "@/countries";
 
 export default defineComponent({
   name: "MatchCard",
@@ -65,5 +69,10 @@ export default defineComponent({
       required: true,
     },
   },
+  methods: {
+    getflag(code: string) {
+      return countries.getflag(code);
+    }
+  }
 });
 </script>
