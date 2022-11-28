@@ -1,7 +1,7 @@
 <template>
   <div class="_margin-top:2 _margin-bottom:2">
     <h2 style="text-align: center;">
-      Matches Today - {{ new Date().toDateString() }}
+      Matches - {{ new Date().toDateString() }}
     </h2>
     <div style="text-align: center;" v-if="loading">
       <i-loader color="primary" />
@@ -25,19 +25,25 @@ export default defineComponent({
   components: {
     MatchCard,
   },
+  props: {
+    apiurl: {
+      type: String,
+      required: true
+    }
+  },
   data() {
     return {
       matches: [] as Match[],
       loading: false as boolean,
     };
   },
-  created() {
+  mounted() {
     this.fetchData();
   },
   methods: {
     fetchData() {
       this.loading = true;
-      fetcher(`https://worldcupjson.net/matches/today`).then((res) => {
+      fetcher(this.apiurl).then((res) => {
         this.matches = res;
         this.loading = false;
       }).catch((error) => {
