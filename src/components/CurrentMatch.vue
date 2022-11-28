@@ -1,10 +1,12 @@
 <template>
-  <div class="_margin-top:2 _margin-bottom:2" v-if="matches.length">
-    <h2 class="_margin-x:auto">
-      Current Match <i-loader color="primary" size="sm" v-if="loading" />
-    </h2>
+  <div
+    class="_margin-top:2 _margin-bottom:3"
+    style="text-align: center"
+    v-if="matches.length"
+  >
+    <h2>Current Match <i-loader color="primary" size="sm" v-if="loading" /></h2>
     <small><i-icon name="ink-info" />Auto Refreshes every 60 seconds</small>
-    <div v-if="matches.length > 0">
+    <div class="_margin-top:2" v-if="matches.length > 0">
       <i-row v-for="match in matches" :key="match.id">
         <i-column md="6" offset-md="3">
           <MatchCard :match="match" />
@@ -29,11 +31,17 @@ export default defineComponent({
     };
   },
   methods: {
-    async fetchData() {
+    fetchData() {
       this.loading = true;
-      let res = await fetcher("https://worldcupjson.net/matches/current");
-      this.matches = res;
-      this.loading = false;
+      fetcher("https://worldcupjson.net/matches/current")
+        .then((res) => {
+          this.matches = res;
+          this.loading = false;
+        })
+        .catch((err) => {
+          this.loading = false;
+          console.error(err);
+        });
     },
   },
   created() {

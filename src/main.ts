@@ -5,7 +5,7 @@ import router from "./router";
 import { Inkline, components } from "@inkline/inkline";
 import "@inkline/inkline/inkline.scss";
 
-import { inject } from '@vercel/analytics';
+import { inject } from "@vercel/analytics";
 
 const app = createApp(App);
 

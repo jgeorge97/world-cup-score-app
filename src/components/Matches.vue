@@ -1,7 +1,9 @@
 <template>
   <div class="_margin-top:2 _margin-bottom:2">
-    <h2 class="_margin-x:auto">Matches Tomorrow</h2>
-    <div class="_margin-x:auto" v-if="loading">
+    <h2 style="text-align: center">
+      Matches - {{ new Date().toDateString() }}
+    </h2>
+    <div style="text-align: center" v-if="loading">
       <i-loader color="primary" />
     </div>
     <div v-else-if="loading === false && matches.length > 0">
@@ -23,26 +25,33 @@ export default defineComponent({
   components: {
     MatchCard,
   },
+  props: {
+    apiurl: {
+      type: String,
+      required: true,
+    },
+  },
   data() {
     return {
       matches: [] as Match[],
       loading: false as boolean,
     };
   },
-  created() {
+  mounted() {
     this.fetchData();
   },
   methods: {
-    async fetchData() {
-      try {
-        this.loading = true;
-        let res = await fetcher(`https://worldcupjson.net/matches/tomorrow`);
-        this.matches = res;
-        this.loading = false;
-      } catch (error) {
-        this.loading = false;
-        console.error(error);
-      }
+    fetchData() {
+      this.loading = true;
+      fetcher(this.apiurl)
+        .then((res) => {
+          this.matches = res;
+          this.loading = false;
+        })
+        .catch((error) => {
+          this.loading = false;
+          console.error(error);
+        });
     },
   },
 });

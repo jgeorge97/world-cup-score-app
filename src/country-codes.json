@@ -1,0 +1,2262 @@
+{
+	"BAN": {
+		"a2": "BD",
+		"a3": "BGD",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "BGD",
+		"ioc": "BG",
+		"itu": "BGD",
+		"name": "Bangladesh"
+	},
+	"BEL": {
+		"a2": "BE",
+		"a3": "BEL",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "BEL",
+		"ioc": "BE",
+		"itu": "BEL",
+		"name": "Belgium"
+	},
+	"BUR": {
+		"a2": "BF",
+		"a3": "BFA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "BFA",
+		"ioc": "UV",
+		"itu": "BFA",
+		"name": "Burkina Faso"
+	},
+	"BUL": {
+		"a2": "BG",
+		"a3": "BGR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "BGR",
+		"ioc": "BU",
+		"itu": "BUL",
+		"name": "Bulgaria"
+	},
+	"BIH": {
+		"a2": "BA",
+		"a3": "BIH",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "BIH",
+		"ioc": "BK",
+		"itu": "BIH",
+		"name": "Bosnia and Herzegovina"
+	},
+	"BAR": {
+		"a2": "BB",
+		"a3": "BRB",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "BRB",
+		"ioc": "BB",
+		"itu": "BRB",
+		"name": "Barbados"
+	},
+	"WAF": {
+		"a2": "WF",
+		"a3": "WLF",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "WLF",
+		"ioc": "WF",
+		"itu": "WAL",
+		"name": "Wallis and Futuna Islands"
+	},
+	"BER": {
+		"a2": "BM",
+		"a3": "BMU",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "BMU",
+		"ioc": "BD",
+		"itu": "BER",
+		"name": "Bermuda"
+	},
+	"BRU": {
+		"a2": "BN",
+		"a3": "BRN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "BRN",
+		"ioc": "BX",
+		"itu": "BRU",
+		"name": "Brunei Darussalam"
+	},
+	"BOL": {
+		"a2": "BO",
+		"a3": "BOL",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "BOL",
+		"ioc": "BL",
+		"itu": "BOL",
+		"name": "Bolivia"
+	},
+	"BRN": {
+		"a2": "BH",
+		"a3": "BHR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "BHR",
+		"ioc": "BA",
+		"itu": "BHR",
+		"name": "Bahrain"
+	},
+	"BDI": {
+		"a2": "BI",
+		"a3": "BDI",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "BDI",
+		"ioc": "BY",
+		"itu": "BDI",
+		"name": "Burundi"
+	},
+	"BEN": {
+		"a2": "BJ",
+		"a3": "BEN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "BEN",
+		"ioc": "BN",
+		"itu": "BEN",
+		"name": "Benin"
+	},
+	"BHU": {
+		"a2": "BT",
+		"a3": "BTN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "BTN",
+		"ioc": "BT",
+		"itu": "BTN",
+		"name": "Bhutan"
+	},
+	"JAM": {
+		"a2": "JM",
+		"a3": "JAM",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "JAM",
+		"ioc": "JM",
+		"itu": "JMC",
+		"name": "Jamaica"
+	},
+	"BOT": {
+		"a2": "BW",
+		"a3": "BWA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "BWA",
+		"ioc": "BC",
+		"itu": "BOT",
+		"name": "Botswana"
+	},
+	"SAM": {
+		"a2": "WS",
+		"a3": "WSM",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "WSM",
+		"ioc": "WS",
+		"itu": "SMO",
+		"name": "Samoa"
+	},
+	"AHO": {
+		"a2": "BQ",
+		"a3": "BES",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "BES",
+		"ioc": "NL",
+		"itu": "ATN",
+		"name": "Bonaire, Sint Eustatiusand Saba"
+	},
+	"BRA": {
+		"a2": "BR",
+		"a3": "BRA",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "BRA",
+		"ioc": "BR",
+		"itu": "B",
+		"name": "Brazil"
+	},
+	"BAH": {
+		"a2": "BS",
+		"a3": "BHS",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "BHS",
+		"ioc": "BF",
+		"itu": "BAH",
+		"name": "Bahamas"
+	},
+	"BLR": {
+		"a2": "BY",
+		"a3": "BLR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "BLR",
+		"ioc": "BO",
+		"itu": "BLR",
+		"name": "Belarus"
+	},
+	"BIZ": {
+		"a2": "BZ",
+		"a3": "BLZ",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "BLZ",
+		"ioc": "BH",
+		"itu": "BLZ",
+		"name": "Belize"
+	},
+	"RUS": {
+		"a2": "RU",
+		"a3": "RUS",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "RUS",
+		"ioc": "RS",
+		"itu": "RUS",
+		"name": "Russian Federation"
+	},
+	"RWA": {
+		"a2": "RW",
+		"a3": "RWA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "RWA",
+		"ioc": "RW",
+		"itu": "RRW",
+		"name": "Rwanda"
+	},
+	"SRB": {
+		"a2": "RS",
+		"a3": "SRB",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "SRB",
+		"ioc": "RIKV",
+		"itu": "SRB",
+		"name": "Serbia"
+	},
+	"TLS": {
+		"a2": "TL",
+		"a3": "TLS",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "TLS",
+		"ioc": "TT",
+		"itu": "TLS",
+		"name": "Timor-Leste"
+	},
+	"REU": {
+		"a2": "RE",
+		"a3": "REU",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "REU",
+		"ioc": "RE",
+		"itu": "REU",
+		"name": "Reunion"
+	},
+	"TKM": {
+		"a2": "TM",
+		"a3": "TKM",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "TKM",
+		"ioc": "TX",
+		"itu": "TKM",
+		"name": "Turkmenistan"
+	},
+	"TJK": {
+		"a2": "TJ",
+		"a3": "TJK",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "TJK",
+		"ioc": "TI",
+		"itu": "TJK",
+		"name": "Tajikistan"
+	},
+	"ROU": {
+		"a2": "RO",
+		"a3": "ROU",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "ROU",
+		"ioc": "RO",
+		"itu": "ROU",
+		"name": "Romania"
+	},
+	"GBS": {
+		"a2": "GW",
+		"a3": "GNB",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GNB",
+		"ioc": "PU",
+		"itu": "GNB",
+		"name": "Guinea-Bissau"
+	},
+	"GUM": {
+		"a2": "GU",
+		"a3": "GUM",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "GUM",
+		"ioc": "GQ",
+		"itu": "GUM",
+		"name": "Guam"
+	},
+	"GUA": {
+		"a2": "GT",
+		"a3": "GTM",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "GTM",
+		"ioc": "GT",
+		"itu": "GTM",
+		"name": "Guatemala"
+	},
+	"GRE": {
+		"a2": "GR",
+		"a3": "GRC",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "GRC",
+		"ioc": "GR",
+		"itu": "GRC",
+		"name": "Greece"
+	},
+	"GEQ": {
+		"a2": "GQ",
+		"a3": "GNQ",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GNQ",
+		"ioc": "EK",
+		"itu": "GNE",
+		"name": "Equatorial Guinea"
+	},
+	"GUD": {
+		"a2": "GP",
+		"a3": "GLP",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "GLP",
+		"ioc": "GP",
+		"itu": "GDL",
+		"name": "Guadeloupe"
+	},
+	"JPN": {
+		"a2": "JP",
+		"a3": "JPN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "JPN",
+		"ioc": "JA",
+		"itu": "J",
+		"name": "Japan"
+	},
+	"GUY": {
+		"a2": "GY",
+		"a3": "GUY",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "GUY",
+		"ioc": "GY",
+		"itu": "GUY",
+		"name": "Guyana"
+	},
+	"FGU": {
+		"a2": "GF",
+		"a3": "GUF",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "GUF",
+		"ioc": "FG",
+		"itu": "GUF",
+		"name": "French Guiana"
+	},
+	"GEO": {
+		"a2": "GE",
+		"a3": "GEO",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "GEO",
+		"ioc": "GG",
+		"itu": "GEO",
+		"name": "Georgia"
+	},
+	"GRN": {
+		"a2": "GD",
+		"a3": "GRD",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "GRD",
+		"ioc": "GJ",
+		"itu": "GRD",
+		"name": "Grenada"
+	},
+	"GBR": {
+		"a2": "GB",
+		"a3": "GBR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "GBR",
+		"ioc": "UK",
+		"itu": "G",
+		"name": "United Kingdom"
+	},
+	"GAB": {
+		"a2": "GA",
+		"a3": "GAB",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GAB",
+		"ioc": "GB",
+		"itu": "GAB",
+		"name": "Gabon"
+	},
+	"GUI": {
+		"a2": "GN",
+		"a3": "GIN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GIN",
+		"ioc": "GV",
+		"itu": "GUI",
+		"name": "Guinea"
+	},
+	"GAM": {
+		"a2": "GM",
+		"a3": "GMB",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GMB",
+		"ioc": "GA",
+		"itu": "GMB",
+		"name": "Gambia"
+	},
+	"GRL": {
+		"a2": "GL",
+		"a3": "GRL",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "GRL",
+		"ioc": "GL",
+		"itu": "GRL",
+		"name": "Greenland"
+	},
+	"GIB": {
+		"a2": "GI",
+		"a3": "GIB",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "GIB",
+		"ioc": "GI",
+		"itu": "GIB",
+		"name": "Gibraltar"
+	},
+	"GHA": {
+		"a2": "GH",
+		"a3": "GHA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "GHA",
+		"ioc": "GH",
+		"itu": "GHA",
+		"name": "Ghana"
+	},
+	"OMA": {
+		"a2": "OM",
+		"a3": "OMN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "OMN",
+		"ioc": "MU",
+		"itu": "OMA",
+		"name": "Oman"
+	},
+	"TUN": {
+		"a2": "TN",
+		"a3": "TUN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "TUN",
+		"ioc": "TS",
+		"itu": "TUN",
+		"name": "Tunisia"
+	},
+	"JOR": {
+		"a2": "JO",
+		"a3": "JOR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "JOR",
+		"ioc": "JO",
+		"itu": "JOR",
+		"name": "Jordan"
+	},
+	"CRO": {
+		"a2": "HR",
+		"a3": "HRV",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "HRV",
+		"ioc": "HR",
+		"itu": "HRV",
+		"name": "Croatia"
+	},
+	"HAI": {
+		"a2": "HT",
+		"a3": "HTI",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "HTI",
+		"ioc": "HA",
+		"itu": "HTI",
+		"name": "Haiti"
+	},
+	"HUN": {
+		"a2": "HU",
+		"a3": "HUN",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "HUN",
+		"ioc": "HU",
+		"itu": "HNG",
+		"name": "Hungary"
+	},
+	"HKG": {
+		"a2": "HK",
+		"a3": "HKG",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "HKG",
+		"ioc": "HK",
+		"itu": "HKG",
+		"name": "Hong Kong"
+	},
+	"HON": {
+		"a2": "HN",
+		"a3": "HND",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "HND",
+		"ioc": "HO",
+		"itu": "HND",
+		"name": "Honduras"
+	},
+	"VEN": {
+		"a2": "VE",
+		"a3": "VEN",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "VEN",
+		"ioc": "VE",
+		"itu": "VEN",
+		"name": "Venezuela"
+	},
+	"PUR": {
+		"a2": "PR",
+		"a3": "PRI",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "PRI",
+		"ioc": "RQ",
+		"itu": "PTR",
+		"name": "Puerto Rico"
+	},
+	"PLE": {
+		"a2": "PS",
+		"a3": "PSE",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "PSE",
+		"ioc": "GZWE",
+		"itu": " ",
+		"name": "Palestine"
+	},
+	"PLW": {
+		"a2": "PW",
+		"a3": "PLW",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "PLW",
+		"ioc": "PS",
+		"itu": "PLW",
+		"name": "Palau"
+	},
+	"POR": {
+		"a2": "PT",
+		"a3": "PRT",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "PRT",
+		"ioc": "PO",
+		"itu": "POR",
+		"name": "Portugal"
+	},
+	"SKN": {
+		"a2": "KN",
+		"a3": "KNA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "KNA",
+		"ioc": "SC",
+		"itu": "KNA",
+		"name": "Saint Kitts and Nevis"
+	},
+	"PAR": {
+		"a2": "PY",
+		"a3": "PRY",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "PRY",
+		"ioc": "PA",
+		"itu": "PRG",
+		"name": "Paraguay"
+	},
+	"IRQ": {
+		"a2": "IQ",
+		"a3": "IRQ",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "IRQ",
+		"ioc": "IZ",
+		"itu": "IRQ",
+		"name": "Iraq"
+	},
+	"PAN": {
+		"a2": "PA",
+		"a3": "PAN",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "PAN",
+		"ioc": "PM",
+		"itu": "PNR",
+		"name": "Panama"
+	},
+	"FPO": {
+		"a2": "PF",
+		"a3": "PYF",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "PYF",
+		"ioc": "FP",
+		"itu": "OCE",
+		"name": "French Polynesia"
+	},
+	"PNG": {
+		"a2": "PG",
+		"a3": "PNG",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "PNG",
+		"ioc": "PP",
+		"itu": "PNG",
+		"name": "Papua New Guinea"
+	},
+	"PER": {
+		"a2": "PE",
+		"a3": "PER",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "PER",
+		"ioc": "PE",
+		"itu": "PRU",
+		"name": "Peru"
+	},
+	"PAK": {
+		"a2": "PK",
+		"a3": "PAK",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "PAK",
+		"ioc": "PK",
+		"itu": "PAK",
+		"name": "Pakistan"
+	},
+	"PHI": {
+		"a2": "PH",
+		"a3": "PHL",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "PHL",
+		"ioc": "RP",
+		"itu": "PHL",
+		"name": "Philippines"
+	},
+	"POL": {
+		"a2": "PL",
+		"a3": "POL",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "POL",
+		"ioc": "PL",
+		"itu": "POL",
+		"name": "Poland"
+	},
+	"SPM": {
+		"a2": "PM",
+		"a3": "SPM",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "SPM",
+		"ioc": "SB",
+		"itu": "SPM",
+		"name": "Saint Pierre and Miquelon"
+	},
+	"ZAM": {
+		"a2": "ZM",
+		"a3": "ZMB",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "ZMB",
+		"ioc": "ZA",
+		"itu": "ZMB",
+		"name": "Zambia"
+	},
+	"EST": {
+		"a2": "EE",
+		"a3": "EST",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "EST",
+		"ioc": "EN",
+		"itu": "EST",
+		"name": "Estonia"
+	},
+	"EGY": {
+		"a2": "EG",
+		"a3": "EGY",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "EGY",
+		"ioc": "EG",
+		"itu": "EGY",
+		"name": "Egypt"
+	},
+	"RSA": {
+		"a2": "ZA",
+		"a3": "ZAF",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "ZAF",
+		"ioc": "SF",
+		"itu": "AFS",
+		"name": "South Africa"
+	},
+	"ECU": {
+		"a2": "EC",
+		"a3": "ECU",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "ECU",
+		"ioc": "EC",
+		"itu": "EQA",
+		"name": "Ecuador"
+	},
+	"ITA": {
+		"a2": "IT",
+		"a3": "ITA",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "ITA",
+		"ioc": "IT",
+		"itu": "I",
+		"name": "Italy"
+	},
+	"VIE": {
+		"a2": "VN",
+		"a3": "VNM",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "VNM",
+		"ioc": "VM",
+		"itu": "VTN",
+		"name": "Vietnam"
+	},
+	"SOL": {
+		"a2": "SB",
+		"a3": "SLB",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "SLB",
+		"ioc": "BP",
+		"itu": "SLM",
+		"name": "Solomon Islands"
+	},
+	"ETH": {
+		"a2": "ET",
+		"a3": "ETH",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "ETH",
+		"ioc": "ET",
+		"itu": "ETH",
+		"name": "Ethiopia"
+	},
+	"SOM": {
+		"a2": "SO",
+		"a3": "SOM",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SOM",
+		"ioc": "SO",
+		"itu": "SOM",
+		"name": "Somalia"
+	},
+	"ZIM": {
+		"a2": "ZW",
+		"a3": "ZWE",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "ZWE",
+		"ioc": "ZI",
+		"itu": "ZWE",
+		"name": "Zimbabwe"
+	},
+	"KSA": {
+		"a2": "SA",
+		"a3": "SAU",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "SAU",
+		"ioc": "SA",
+		"itu": "ARS",
+		"name": "Saudi Arabia"
+	},
+	"ESP": {
+		"a2": "ES",
+		"a3": "ESP",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "ESP",
+		"ioc": "SP",
+		"itu": "E",
+		"name": "Spain"
+	},
+	"ERI": {
+		"a2": "ER",
+		"a3": "ERI",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "ERI",
+		"ioc": "ER",
+		"itu": "ERI",
+		"name": "Eritrea"
+	},
+	"MGO": {
+		"a2": "ME",
+		"a3": "MNE",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "MNE",
+		"ioc": "MJ",
+		"itu": "MNE",
+		"name": "Montenegro"
+	},
+	"MDA": {
+		"a2": "MD",
+		"a3": "MDA",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "MDA",
+		"ioc": "MD",
+		"itu": "MDA",
+		"name": "Moldova"
+	},
+	"MAD": {
+		"a2": "MG",
+		"a3": "MDG",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MDG",
+		"ioc": "MA",
+		"itu": "MDG",
+		"name": "Madagascar"
+	},
+	"MAR": {
+		"a2": "MA",
+		"a3": "MAR",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MAR",
+		"ioc": "MO",
+		"itu": "MRC",
+		"name": "Morocco"
+	},
+	"MON": {
+		"a2": "MC",
+		"a3": "MCO",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "MCO",
+		"ioc": "MN",
+		"itu": "MCO",
+		"name": "Monaco"
+	},
+	"UZB": {
+		"a2": "UZ",
+		"a3": "UZB",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "UZB",
+		"ioc": "UZ",
+		"itu": "UZB",
+		"name": "Uzbekistan"
+	},
+	"MYA": {
+		"a2": "MM",
+		"a3": "MMR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "MMR",
+		"ioc": "BM",
+		"itu": "MYA",
+		"name": "Myanmar"
+	},
+	"MLI": {
+		"a2": "ML",
+		"a3": "MLI",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MLI",
+		"ioc": "ML",
+		"itu": "MLI",
+		"name": "Mali"
+	},
+	"MAC": {
+		"a2": "MO",
+		"a3": "MAC",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "MAC",
+		"ioc": "MC",
+		"itu": "MAC",
+		"name": "Macau"
+	},
+	"MGL": {
+		"a2": "MN",
+		"a3": "MNG",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "MNG",
+		"ioc": "MG",
+		"itu": "MNG",
+		"name": "Mongolia"
+	},
+	"MSH": {
+		"a2": "MH",
+		"a3": "MHL",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "MHL",
+		"ioc": "RM",
+		"itu": "MHL",
+		"name": "Marshall Islands"
+	},
+	"MKD": {
+		"a2": "MK",
+		"a3": "MKD",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "MKD",
+		"ioc": "MK",
+		"itu": "MKD",
+		"name": "Macedonia"
+	},
+	"MRI": {
+		"a2": "MU",
+		"a3": "MUS",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MUS",
+		"ioc": "MP",
+		"itu": "MAU",
+		"name": "Mauritius"
+	},
+	"MLT": {
+		"a2": "MT",
+		"a3": "MLT",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "MLT",
+		"ioc": "MT",
+		"itu": "MLT",
+		"name": "Malta"
+	},
+	"MAW": {
+		"a2": "MW",
+		"a3": "MWI",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MWI",
+		"ioc": "MI",
+		"itu": "MWI",
+		"name": "Malawi"
+	},
+	"MDV": {
+		"a2": "MV",
+		"a3": "MDV",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "MDV",
+		"ioc": "MV",
+		"itu": "MLD",
+		"name": "Maldives"
+	},
+	"MRT": {
+		"a2": "MQ",
+		"a3": "MTQ",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "MTQ",
+		"ioc": "MB",
+		"itu": "MRT",
+		"name": "Martinique"
+	},
+	"NMA": {
+		"a2": "MP",
+		"a3": "MNP",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "MNP",
+		"ioc": "CQ",
+		"itu": "MRA",
+		"name": "Northern Mariana Islands"
+	},
+	"MNT": {
+		"a2": "MS",
+		"a3": "MSR",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "MSR",
+		"ioc": "MH",
+		"itu": "MSR",
+		"name": "Montserrat"
+	},
+	"MTN": {
+		"a2": "MR",
+		"a3": "MRT",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MRT",
+		"ioc": "MR",
+		"itu": "MTN",
+		"name": "Mauritania"
+	},
+	"UGA": {
+		"a2": "UG",
+		"a3": "UGA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "UGA",
+		"ioc": "UG",
+		"itu": "UGA",
+		"name": "Uganda"
+	},
+	"TAN": {
+		"a2": "TZ",
+		"a3": "TZA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "TZA",
+		"ioc": "TZ",
+		"itu": "TZA",
+		"name": "Tanzania"
+	},
+	"MAS": {
+		"a2": "MY",
+		"a3": "MYS",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "MYS",
+		"ioc": "MY",
+		"itu": "MLA",
+		"name": "Malaysia"
+	},
+	"MEX": {
+		"a2": "MX",
+		"a3": "MEX",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "MEX",
+		"ioc": "MX",
+		"itu": "MEX",
+		"name": "Mexico"
+	},
+	"ISR": {
+		"a2": "IL",
+		"a3": "ISR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "ISR",
+		"ioc": "IS",
+		"itu": "ISR",
+		"name": "Israel"
+	},
+	"FRA": {
+		"a2": "FR",
+		"a3": "FRA",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "FRA",
+		"ioc": "FR",
+		"itu": "F",
+		"name": "France"
+	},
+	"ARU": {
+		"a2": "AW",
+		"a3": "ABW",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "ABW",
+		"ioc": "AA",
+		"itu": "ABW",
+		"name": "Aruba"
+	},
+	"HEL": {
+		"a2": "SH",
+		"a3": "SHN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SHN",
+		"ioc": "SH",
+		"itu": "SHN",
+		"name": "Saint Helena"
+	},
+	"FIN": {
+		"a2": "FI",
+		"a3": "FIN",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "FIN",
+		"ioc": "FI",
+		"itu": "FIN",
+		"name": "Finland"
+	},
+	"FIJ": {
+		"a2": "FJ",
+		"a3": "FJI",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "FJI",
+		"ioc": "FJ",
+		"itu": "FJI",
+		"name": "Fiji"
+	},
+	"FLK": {
+		"a2": "FK",
+		"a3": "FLK",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "FLK",
+		"ioc": "FK",
+		"itu": "FLK",
+		"name": "Falkland Islands"
+	},
+	"FSM": {
+		"a2": "FM",
+		"a3": "FSM",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "FSM",
+		"ioc": "FM",
+		"itu": "FSM",
+		"name": "Micronesia"
+	},
+	"FAR": {
+		"a2": "FO",
+		"a3": "FRO",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "FRO",
+		"ioc": "FO",
+		"itu": "FRO",
+		"name": "Faroe Islands"
+	},
+	"NCA": {
+		"a2": "NI",
+		"a3": "NIC",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "NIC",
+		"ioc": "NU",
+		"itu": "NCG",
+		"name": "Nicaragua"
+	},
+	"NED": {
+		"a2": "NL",
+		"a3": "NLD",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "NLD",
+		"ioc": "NL",
+		"itu": "HOL",
+		"name": "Netherlands"
+	},
+	"NOR": {
+		"a2": "NO",
+		"a3": "NOR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "NOR",
+		"ioc": "NO",
+		"itu": "NOR",
+		"name": "Norway"
+	},
+	"NAM": {
+		"a2": "NA",
+		"a3": "NAM",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "NAM",
+		"ioc": "WA",
+		"itu": "NMB",
+		"name": "Namibia"
+	},
+	"VAN": {
+		"a2": "VU",
+		"a3": "VUT",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "VUT",
+		"ioc": "NH",
+		"itu": "VUT",
+		"name": "Vanuatu"
+	},
+	"NCD": {
+		"a2": "NC",
+		"a3": "NCL",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "NCL",
+		"ioc": "NC",
+		"itu": "NCL",
+		"name": "New Caledonia"
+	},
+	"NIG": {
+		"a2": "NE",
+		"a3": "NER",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "NER",
+		"ioc": "NG",
+		"itu": "NGR",
+		"name": "Niger"
+	},
+	"NFI": {
+		"a2": "NF",
+		"a3": "NFK",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "NFK",
+		"ioc": "NF",
+		"itu": "NFK",
+		"name": "Norfolk Island"
+	},
+	"NGR": {
+		"a2": "NG",
+		"a3": "NGA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "NGA",
+		"ioc": "NI",
+		"itu": "NIG",
+		"name": "Nigeria"
+	},
+	"NZL": {
+		"a2": "NZ",
+		"a3": "NZL",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "NZL",
+		"ioc": "NZ",
+		"itu": "NZL",
+		"name": "New Zealand"
+	},
+	"NEP": {
+		"a2": "NP",
+		"a3": "NPL",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "NPL",
+		"ioc": "NP",
+		"itu": "NPL",
+		"name": "Nepal"
+	},
+	"NRU": {
+		"a2": "NR",
+		"a3": "NRU",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "NRU",
+		"ioc": "NR",
+		"itu": "NRU",
+		"name": "Nauru"
+	},
+	"NIU": {
+		"a2": "NU",
+		"a3": "NIU",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "NIU",
+		"ioc": "NE",
+		"itu": "NIU",
+		"name": "Niue"
+	},
+	"COK": {
+		"a2": "CK",
+		"a3": "COK",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "COK",
+		"ioc": "CW",
+		"itu": "CKH",
+		"name": "Cook Islands"
+	},
+	"CIV": {
+		"a2": "CI",
+		"a3": "CIV",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "CIV",
+		"ioc": "IV",
+		"itu": "CTI",
+		"name": "C\u00f4te d'Ivoire"
+	},
+	"SUI": {
+		"a2": "CH",
+		"a3": "CHE",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "CHE",
+		"ioc": "SZ",
+		"itu": "SUI",
+		"name": "Switzerland"
+	},
+	"COL": {
+		"a2": "CO",
+		"a3": "COL",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "COL",
+		"ioc": "CO",
+		"itu": "CLM",
+		"name": "Colombia"
+	},
+	"CHN": {
+		"a2": "CN",
+		"a3": "CHN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "CHN",
+		"ioc": "CH",
+		"itu": "CHN",
+		"name": "China"
+	},
+	"CMR": {
+		"a2": "CM",
+		"a3": "CMR",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "CMR",
+		"ioc": "CM",
+		"itu": "CME",
+		"name": "Cameroon"
+	},
+	"CHI": {
+		"a2": "CL",
+		"a3": "CHL",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "CHL",
+		"ioc": "CI",
+		"itu": "CHL",
+		"name": "Chile"
+	},
+	"CAN": {
+		"a2": "CA",
+		"a3": "CAN",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "CAN",
+		"ioc": "CA",
+		"itu": "CAN",
+		"name": "Canada"
+	},
+	"CGO": {
+		"a2": "CG",
+		"a3": "COG",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "COG",
+		"ioc": "CF",
+		"itu": "COG",
+		"name": "Congo (Brazzaville)"
+	},
+	"CAF": {
+		"a2": "CF",
+		"a3": "CAF",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "CAF",
+		"ioc": "CT",
+		"itu": "CAF",
+		"name": "Central African Republic"
+	},
+	"COD": {
+		"a2": "CD",
+		"a3": "COD",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "COD",
+		"ioc": "CG",
+		"itu": "COD",
+		"name": "Congo (Kinshasa)"
+	},
+	"CZE": {
+		"a2": "CZ",
+		"a3": "CZE",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "CZE",
+		"ioc": "EZ",
+		"itu": "CZE",
+		"name": "Czech Republic"
+	},
+	"CYP": {
+		"a2": "CY",
+		"a3": "CYP",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "CYP",
+		"ioc": "CY",
+		"itu": "CYP",
+		"name": "Cyprus"
+	},
+	"CRC": {
+		"a2": "CR",
+		"a3": "CRI",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "CRI",
+		"ioc": "CS",
+		"itu": "CTR",
+		"name": "Costa Rica"
+	},
+	"CPV": {
+		"a2": "CV",
+		"a3": "CPV",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "CPV",
+		"ioc": "CV",
+		"itu": "CPV",
+		"name": "Cape Verde"
+	},
+	"CUB": {
+		"a2": "CU",
+		"a3": "CUB",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "CUB",
+		"ioc": "CU",
+		"itu": "CUB",
+		"name": "Cuba"
+	},
+	"SWZ": {
+		"a2": "SZ",
+		"a3": "SWZ",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SWZ",
+		"ioc": "WZ",
+		"itu": "SWZ",
+		"name": "Swaziland"
+	},
+	"SYR": {
+		"a2": "SY",
+		"a3": "SYR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "SYR",
+		"ioc": "SY",
+		"itu": "SYR",
+		"name": "Syria"
+	},
+	"KGZ": {
+		"a2": "KG",
+		"a3": "KGZ",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "KGZ",
+		"ioc": "KG",
+		"itu": "KGZ",
+		"name": "Kyrgyzstan"
+	},
+	"KEN": {
+		"a2": "KE",
+		"a3": "KEN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "KEN",
+		"ioc": "KE",
+		"itu": "KEN",
+		"name": "Kenya"
+	},
+	"SUR": {
+		"a2": "SR",
+		"a3": "SUR",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "SUR",
+		"ioc": "NS",
+		"itu": "SUR",
+		"name": "Suriname"
+	},
+	"KIR": {
+		"a2": "KI",
+		"a3": "KIR",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "KIR",
+		"ioc": "KR",
+		"itu": "KIR",
+		"name": "Kiribati"
+	},
+	"CAM": {
+		"a2": "KH",
+		"a3": "KHM",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "KHM",
+		"ioc": "CB",
+		"itu": "CBG",
+		"name": "Cambodia"
+	},
+	"ESA": {
+		"a2": "SV",
+		"a3": "SLV",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "SLV",
+		"ioc": "ES",
+		"itu": "SLV",
+		"name": "El Salvador"
+	},
+	"COM": {
+		"a2": "KM",
+		"a3": "COM",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "COM",
+		"ioc": "CN",
+		"itu": "COM",
+		"name": "Comoros"
+	},
+	"STP": {
+		"a2": "ST",
+		"a3": "STP",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "STP",
+		"ioc": "TP",
+		"itu": "STP",
+		"name": "Sao Tome and Principe"
+	},
+	"SVK": {
+		"a2": "SK",
+		"a3": "SVK",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "SVK",
+		"ioc": "LO",
+		"itu": "SVK",
+		"name": "Slovakia"
+	},
+	"KOR": {
+		"a2": "KR",
+		"a3": "KOR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "KOR",
+		"ioc": "KS",
+		"itu": "KOR",
+		"name": "Korea, South"
+	},
+	"SLO": {
+		"a2": "SI",
+		"a3": "SVN",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "SVN",
+		"ioc": "SI",
+		"itu": "SVN",
+		"name": "Slovenia"
+	},
+	"PRK": {
+		"a2": "KP",
+		"a3": "PRK",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "PRK",
+		"ioc": "KN",
+		"itu": "KRE",
+		"name": "Korea, North"
+	},
+	"KUW": {
+		"a2": "KW",
+		"a3": "KWT",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "KWT",
+		"ioc": "KU",
+		"itu": "KWT",
+		"name": "Kuwait"
+	},
+	"SEN": {
+		"a2": "SN",
+		"a3": "SEN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SEN",
+		"ioc": "SG",
+		"itu": "SEN",
+		"name": "Senegal"
+	},
+	"SMR": {
+		"a2": "SM",
+		"a3": "SMR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "SMR",
+		"ioc": "SM",
+		"itu": "SMR",
+		"name": "San Marino"
+	},
+	"SLE": {
+		"a2": "SL",
+		"a3": "SLE",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SLE",
+		"ioc": "SL",
+		"itu": "SRL",
+		"name": "Sierra Leone"
+	},
+	"SEY": {
+		"a2": "SC",
+		"a3": "SYC",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SYC",
+		"ioc": "SE",
+		"itu": "SEY",
+		"name": "Seychelles"
+	},
+	"KAZ": {
+		"a2": "KZ",
+		"a3": "KAZ",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "KAZ",
+		"ioc": "KZ",
+		"itu": "KAZ",
+		"name": "Kazakhstan"
+	},
+	"CAY": {
+		"a2": "KY",
+		"a3": "CYM",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "CYM",
+		"ioc": "CJ",
+		"itu": "CYM",
+		"name": "Cayman Islands"
+	},
+	"SIN": {
+		"a2": "SG",
+		"a3": "SGP",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "SGP",
+		"ioc": "SN",
+		"itu": "SNG",
+		"name": "Singapore"
+	},
+	"SWE": {
+		"a2": "SE",
+		"a3": "SWE",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "SWE",
+		"ioc": "SW",
+		"itu": "S",
+		"name": "Sweden"
+	},
+	"SUD": {
+		"a2": "SD",
+		"a3": "SDN",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "SDN",
+		"ioc": "SU",
+		"itu": "SDN",
+		"name": "Sudan"
+	},
+	"DOM": {
+		"a2": "DO",
+		"a3": "DOM",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "DOM",
+		"ioc": "DR",
+		"itu": "DOM",
+		"name": "Dominican Republic"
+	},
+	"DMA": {
+		"a2": "DM",
+		"a3": "DMA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "DMA",
+		"ioc": "DO",
+		"itu": "DMA",
+		"name": "Dominica"
+	},
+	"DJI": {
+		"a2": "DJ",
+		"a3": "DJI",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "DJI",
+		"ioc": "DJ",
+		"itu": "DJI",
+		"name": "Djibouti"
+	},
+	"DEN": {
+		"a2": "DK",
+		"a3": "DNK",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "DNK",
+		"ioc": "DA",
+		"itu": "DNK",
+		"name": "Denmark"
+	},
+	"IVB": {
+		"a2": "VG",
+		"a3": "VGB",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "VGB",
+		"ioc": "VI",
+		"itu": "VRG",
+		"name": "Virgin Islands, British"
+	},
+	"GER": {
+		"a2": "DE",
+		"a3": "DEU",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "DEU",
+		"ioc": "GM",
+		"itu": "D",
+		"name": "Germany"
+	},
+	"YEM": {
+		"a2": "YE",
+		"a3": "YEM",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "YEM",
+		"ioc": "YM",
+		"itu": "YEM",
+		"name": "Yemen"
+	},
+	"ALG": {
+		"a2": "DZ",
+		"a3": "DZA",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "DZA",
+		"ioc": "AG",
+		"itu": "ALG",
+		"name": "Algeria"
+	},
+	"USA": {
+		"a2": "US",
+		"a3": "USA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "USA",
+		"ioc": "US",
+		"itu": "USA",
+		"name": "United States of America"
+	},
+	"URU": {
+		"a2": "UY",
+		"a3": "URY",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "URY",
+		"ioc": "UY",
+		"itu": "URG",
+		"name": "Uruguay"
+	},
+	"MAY": {
+		"a2": "YT",
+		"a3": "MYT",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MYT",
+		"ioc": "MF",
+		"itu": "MYT",
+		"name": "Mayotte"
+	},
+	"LIB": {
+		"a2": "LB",
+		"a3": "LBN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "LBN",
+		"ioc": "LE",
+		"itu": "LBN",
+		"name": "Lebanon"
+	},
+	"LCA": {
+		"a2": "LC",
+		"a3": "LCA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "LCA",
+		"ioc": "ST",
+		"itu": "LCA",
+		"name": "Saint Lucia"
+	},
+	"LAO": {
+		"a2": "LA",
+		"a3": "LAO",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "LAO",
+		"ioc": "LA",
+		"itu": "LAO",
+		"name": "Laos"
+	},
+	"TUV": {
+		"a2": "TV",
+		"a3": "TUV",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "TUV",
+		"ioc": "TV",
+		"itu": "TUV",
+		"name": "Tuvalu"
+	},
+	"TPE": {
+		"a2": "TW",
+		"a3": "TWN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "TWN",
+		"ioc": "TW",
+		"itu": " ",
+		"name": "Taiwan"
+	},
+	"TRI": {
+		"a2": "TT",
+		"a3": "TTO",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "TTO",
+		"ioc": "TD",
+		"itu": "TRD",
+		"name": "Trinidad and Tobago"
+	},
+	"TUR": {
+		"a2": "TR",
+		"a3": "TUR",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "TUR",
+		"ioc": "TU",
+		"itu": "TUR",
+		"name": "Turkey"
+	},
+	"SRI": {
+		"a2": "LK",
+		"a3": "LKA",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "LKA",
+		"ioc": "CE",
+		"itu": "CLN",
+		"name": "Sri Lanka"
+	},
+	"LIE": {
+		"a2": "LI",
+		"a3": "LIE",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "LIE",
+		"ioc": "LS",
+		"itu": "LIE",
+		"name": "Liechtenstein"
+	},
+	"LAT": {
+		"a2": "LV",
+		"a3": "LVA",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "LVA",
+		"ioc": "LG",
+		"itu": "LVA",
+		"name": "Latvia"
+	},
+	"TGA": {
+		"a2": "TO",
+		"a3": "TON",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "TON",
+		"ioc": "TN",
+		"itu": "TON",
+		"name": "Tonga"
+	},
+	"LTU": {
+		"a2": "LT",
+		"a3": "LTU",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "LTU",
+		"ioc": "LH",
+		"itu": "LTU",
+		"name": "Lithuania"
+	},
+	"LUX": {
+		"a2": "LU",
+		"a3": "LUX",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "LUX",
+		"ioc": "LU",
+		"itu": "LUX",
+		"name": "Luxembourg"
+	},
+	"LBR": {
+		"a2": "LR",
+		"a3": "LBR",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "LBR",
+		"ioc": "LI",
+		"itu": "LBR",
+		"name": "Liberia"
+	},
+	"LES": {
+		"a2": "LS",
+		"a3": "LSO",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "LSO",
+		"ioc": "LT",
+		"itu": "LSO",
+		"name": "Lesotho"
+	},
+	"THA": {
+		"a2": "TH",
+		"a3": "THA",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "THA",
+		"ioc": "TH",
+		"itu": "THA",
+		"name": "Thailand"
+	},
+	"TOG": {
+		"a2": "TG",
+		"a3": "TGO",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "TGO",
+		"ioc": "TO",
+		"itu": "TGO",
+		"name": "Togo"
+	},
+	"CHA": {
+		"a2": "TD",
+		"a3": "TCD",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "TCD",
+		"ioc": "CD",
+		"itu": "TCD",
+		"name": "Chad"
+	},
+	"TKS": {
+		"a2": "TC",
+		"a3": "TCA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "TCA",
+		"ioc": "TK",
+		"itu": "TCA",
+		"name": "Turks and Caicos Islands"
+	},
+	"LBA": {
+		"a2": "LY",
+		"a3": "LBY",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "LBY",
+		"ioc": "LY",
+		"itu": "LBY",
+		"name": "Libya"
+	},
+	"VIN": {
+		"a2": "VC",
+		"a3": "VCT",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "VCT",
+		"ioc": "VC",
+		"itu": "VCT",
+		"name": "Saint Vincent and the Grenadines"
+	},
+	"UAE": {
+		"a2": "AE",
+		"a3": "ARE",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "ARE",
+		"ioc": "AE",
+		"itu": "UAE",
+		"name": "United Arab Emirates"
+	},
+	"AND": {
+		"a2": "AD",
+		"a3": "AND",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "AND",
+		"ioc": "AN",
+		"itu": "AND",
+		"name": "Andorra"
+	},
+	"ANT": {
+		"a2": "AG",
+		"a3": "ATG",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "ATG",
+		"ioc": "AC",
+		"itu": "ATG",
+		"name": "Antigua and Barbuda"
+	},
+	"AFG": {
+		"a2": "AF",
+		"a3": "AFG",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "AFG",
+		"ioc": "AF",
+		"itu": "AFG",
+		"name": "Afghanistan"
+	},
+	"AIA": {
+		"a2": "AI",
+		"a3": "AIA",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "AIA",
+		"ioc": "AV",
+		"itu": "AIA",
+		"name": "Anguilla"
+	},
+	"ISV": {
+		"a2": "VI",
+		"a3": "VIR",
+		"continent": "NA",
+		"continent_name": "North America",
+		"id": "VIR",
+		"ioc": "VQ",
+		"itu": "VIR",
+		"name": "Virgin Islands, U.S."
+	},
+	"ISL": {
+		"a2": "IS",
+		"a3": "ISL",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "ISL",
+		"ioc": "IC",
+		"itu": "ISL",
+		"name": "Iceland"
+	},
+	"IRI": {
+		"a2": "IR",
+		"a3": "IRN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "IRN",
+		"ioc": "IR",
+		"itu": "IRN",
+		"name": "Iran"
+	},
+	"ARM": {
+		"a2": "AM",
+		"a3": "ARM",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "ARM",
+		"ioc": "AM",
+		"itu": "ARM",
+		"name": "Armenia"
+	},
+	"ALB": {
+		"a2": "AL",
+		"a3": "ALB",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "ALB",
+		"ioc": "AL",
+		"itu": "ALB",
+		"name": "Albania"
+	},
+	"ANG": {
+		"a2": "AO",
+		"a3": "AGO",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "AGO",
+		"ioc": "AO",
+		"itu": "AGL",
+		"name": "Angola"
+	},
+	"ASA": {
+		"a2": "AS",
+		"a3": "ASM",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "ASM",
+		"ioc": "AQ",
+		"itu": "SMA",
+		"name": "American Samoa"
+	},
+	"ARG": {
+		"a2": "AR",
+		"a3": "ARG",
+		"continent": "SA",
+		"continent_name": "South America",
+		"id": "ARG",
+		"ioc": "AR",
+		"itu": "ARG",
+		"name": "Argentina"
+	},
+	"AUS": {
+		"a2": "AU",
+		"a3": "AUS",
+		"continent": "OC",
+		"continent_name": "Oceania",
+		"id": "AUS",
+		"ioc": "AS",
+		"itu": "AUS",
+		"name": "Australia"
+	},
+	"AUT": {
+		"a2": "AT",
+		"a3": "AUT",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "AUT",
+		"ioc": "AU",
+		"itu": "AUT",
+		"name": "Austria"
+	},
+	"IND": {
+		"a2": "IN",
+		"a3": "IND",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "IND",
+		"ioc": "IN",
+		"itu": "IND",
+		"name": "India"
+	},
+	"AZE": {
+		"a2": "AZ",
+		"a3": "AZE",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "AZE",
+		"ioc": "AJ",
+		"itu": "AZE",
+		"name": "Azerbaijan"
+	},
+	"IRL": {
+		"a2": "IE",
+		"a3": "IRL",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "IRL",
+		"ioc": "EI",
+		"itu": "IRL",
+		"name": "Ireland"
+	},
+	"INA": {
+		"a2": "ID",
+		"a3": "IDN",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "IDN",
+		"ioc": "ID",
+		"itu": "INS",
+		"name": "Indonesia"
+	},
+	"UKR": {
+		"a2": "UA",
+		"a3": "UKR",
+		"continent": "EU",
+		"continent_name": "Europe",
+		"id": "UKR",
+		"ioc": "UP",
+		"itu": "UKR",
+		"name": "Ukraine"
+	},
+	"QAT": {
+		"a2": "QA",
+		"a3": "QAT",
+		"continent": "AS",
+		"continent_name": "Asia",
+		"id": "QAT",
+		"ioc": "QA",
+		"itu": "QAT",
+		"name": "Qatar"
+	},
+	"MOZ": {
+		"a2": "MZ",
+		"a3": "MOZ",
+		"continent": "AF",
+		"continent_name": "Africa",
+		"id": "MOZ",
+		"ioc": "MZ",
+		"itu": "MOZ",
+		"name": "Mozambique"
+	}
+}
