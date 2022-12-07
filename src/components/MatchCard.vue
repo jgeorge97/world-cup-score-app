@@ -2,20 +2,10 @@
   <i-card class="_margin-bottom:1">
     <i-row center class="_margin-bottom:1">
       <i-column xs="6">
-        <img
-          :src="`https://countryflagsapi.com/png/${match.home_team.name}`"
-          :alt="`Flag of ${match.home_team.name}`"
-          class="image"
-          style="width: 50%"
-        />
+        <span class="flag">{{ getFlagEmoji(match.home_team_country) }}</span>
       </i-column>
       <i-column xs="6">
-        <img
-          :src="`https://countryflagsapi.com/png/${match.away_team.name}`"
-          :alt="`Flag of ${match.away_team.name}`"
-          class="image"
-          style="width: 50%"
-        />
+        <span class="flag">{{ getFlagEmoji(match.away_team_country) }}</span>
       </i-column>
     </i-row>
     <i-row center class="_margin-bottom:1">
@@ -55,6 +45,7 @@
 </template>
 <script lang="ts">
 import type { Match } from "@/types";
+import { getFlag } from "@/flagService";
 import { defineComponent, type PropType } from "vue";
 
 export default defineComponent({
@@ -65,5 +56,15 @@ export default defineComponent({
       required: true,
     },
   },
+  methods: {
+    getFlagEmoji: (code: string) => {
+      return getFlag(code)?.flag;
+    },
+  },
 });
 </script>
+<style>
+.flag {
+  font-size: 80px;
+}
+</style>
