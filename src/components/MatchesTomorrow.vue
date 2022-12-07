@@ -12,7 +12,7 @@
       </i-row>
     </div>
     <div v-else-if="loading === false && matches.length === 0">
-      <p class="_font-size:lg">❌ No Matches Today</p>
+      <p class="_font-size:lg">❌ No Matches Tomorrow</p>
     </div>
   </div>
 </template>
