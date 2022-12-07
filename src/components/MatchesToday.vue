@@ -13,6 +13,9 @@
         </i-column>
       </i-row>
     </div>
+    <div v-else-if="loading === false && matches.length === 0">
+      <p class="_font-size:lg">❌ No Matches Today</p>
+    </div>
   </div>
 </template>
 <script lang="ts">
